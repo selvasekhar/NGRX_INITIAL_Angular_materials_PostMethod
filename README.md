@@ -12,7 +12,11 @@ https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562025/passing_datas_vwev
 
 https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/crud_znbqrn.png
 
-https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/json_fz4vmi.png
+
+
+<a href="http://www.google.com" target="_blank">
+  <img width="220" height="250" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/json_fz4vmi.png"/>
+</a>
 
 # NewNGRX
 
