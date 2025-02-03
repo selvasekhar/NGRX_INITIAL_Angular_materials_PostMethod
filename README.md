@@ -1,3 +1,15 @@
+"@angular/material": "^14.0.0",
+"@angular/platform-browser": "^14.0.0",
+"@angular/platform-browser-dynamic": "^14.0.0",
+"@angular/router": "^14.0.0",
+"@ngrx/effects": "^14.3.3",
+"@ngrx/entity": "^14.3.3",
+"@ngrx/store": "^14.3.3",
+"@ngrx/store-devtools": "^14.3.3",
+"json-server": "^1.0.0-beta.3",
+
+https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562025/passing_datas_vwevs8.png
+
 # NewNGRX
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
