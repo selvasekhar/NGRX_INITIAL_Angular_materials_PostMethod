@@ -10,6 +10,10 @@
 
 https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562025/passing_datas_vwevs8.png
 
+https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/crud_znbqrn.png
+
+https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/json_fz4vmi.png
+
 # NewNGRX
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
