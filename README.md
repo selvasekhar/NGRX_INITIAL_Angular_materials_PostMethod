@@ -10,13 +10,13 @@
 
 
 
-  <img width="1024" height="768" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562025/passing_datas_vwevs8.png"/>
+  <img width="800" height="600" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562025/passing_datas_vwevs8.png"/>
 
-  <img width="1024" height="768" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/crud_znbqrn.png"/>
+    <img width="800" height="600" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/crud_znbqrn.png"/>
 
 
 
-  <img width="1024" height="768" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/json_fz4vmi.png"/>
+  <img width="800" height="600" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/json_fz4vmi.png"/>
 
 
 # NewNGRX
