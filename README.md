@@ -8,15 +8,16 @@
 "@ngrx/store-devtools": "^14.3.3",
 "json-server": "^1.0.0-beta.3",
 
-https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562025/passing_datas_vwevs8.png
-
-https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/crud_znbqrn.png
 
 
+  <img width="1024" height="768" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562025/passing_datas_vwevs8.png"/>
 
-<a href="http://www.google.com" target="_blank">
-  <img width="220" height="250" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/json_fz4vmi.png"/>
-</a>
+  <img width="1024" height="768" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/crud_znbqrn.png"/>
+
+
+
+  <img width="1024" height="768" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562024/json_fz4vmi.png"/>
+
 
 # NewNGRX
 
