@@ -8,6 +8,8 @@
     "@ngrx/store-devtools": "^14.3.3",
     "json-server": "^1.0.0-beta.3",
 
+    json-server --watch db.json
+
 
 
   <img width="800" height="600" border="0" align="center"  src="https://res.cloudinary.com/dlxdqxzny/image/upload/v1738562025/passing_datas_vwevs8.png"/>
